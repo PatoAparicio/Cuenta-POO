@@ -5,6 +5,7 @@ public class Cuenta
 {
     private String nombre; //Variable de instancia
     private double saldo;  //Variable de instancia
+    private int agustin;
     
     //constructor inicializa nombre con el parametro nombre
     public Cuenta (String  nombre, double saldo)
